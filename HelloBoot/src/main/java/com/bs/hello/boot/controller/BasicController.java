@@ -81,7 +81,11 @@ public class BasicController {
 		param.put("userName", name);
 		return service.selectMemberByName(param);
 	}
-	
+	@GetMapping("/ajax/memberAll")
+	@ResponseBody
+	public List<MemberDto> memberAll(){
+		return service.selectMemberAll();
+	}
 	
 	
 

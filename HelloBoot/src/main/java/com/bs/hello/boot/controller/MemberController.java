@@ -6,6 +6,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.bs.hello.boot.dto.MemberDto;
 import com.bs.hello.boot.service.MemberService;
@@ -27,5 +28,7 @@ public class MemberController {
 		m.addAttribute("members",serivce.selectMemberAll());
 		return "member/memberList";
 	}
+	
+	
 
 }
