@@ -1,0 +1,607 @@
+[
+	{
+		"teamAbbr": "T1",
+		"fullName": "T1",
+		"color": "#E2012D",
+		"logo": {
+			"big": "t1_logo_big.png",
+			"small": "t1_logo_small.png",
+			"white": "t1_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "zeus",
+					"image": [
+						"t1_roster_zeus1.png",
+						"t1_roster_zeus2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "oner",
+					"image": [
+						"t1_roster_oner1.png",
+						"t1_roster_oner2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "faker",
+					"image": [
+						"t1_roster_faker1.png",
+						"t1_roster_faker2.png"
+					]
+				},
+				{
+					"name": "poby",
+					"image": [
+						"t1_roster_poby1.png",
+						"t1_roster_poby2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "gumayusi",
+					"image": [
+						"t1_roster_gumayusi1.png",
+						"t1_roster_gumayusi2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "keria",
+					"image": [
+						"t1_roster_keria1.png",
+						"t1_roster_keria2.png"
+					]
+				}
+			]
+		}
+	}, 
+	{
+		"teamAbbr": "GEN",
+		"fullName": "Gen.G",
+		"color": "#AA8B2F",
+		"logo": {
+			"big": "geng_logo_big.png",
+			"small": "geng_logo_small.png",
+			"white": "geng_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "doran",
+					"image": [
+						"geng_roster_doran1.png",
+						"geng_roster_doran2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "peanut",
+					"image": [
+						"geng_roster_peanut1.png",
+						"geng_roster_peanut2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "chovy",
+					"image": [
+						"geng_roster_chovy1.png",
+						"geng_roster_chovy2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "peyz",
+					"image": [
+						"geng_roster_peyz1.png",
+						"geng_roster_peyz2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "delight",
+					"image": [
+						"geng_roster_delight1.png",
+						"geng_roster_delight2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "KT",
+		"fullName": "KT Rolster",
+		"color": "#FF0A07",
+		"logo": {
+			"big": "kt_logo_big.png",
+			"small": "kt_logo_small.png",
+			"white": "kt_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "kiin",
+					"image": [
+						"kt_roster_kiin1.png",
+						"kt_roster_kiin2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "cuzz",
+					"image": [
+						"kt_roster_cuzz1.png",
+						"kt_roster_cuzz2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "bdd",
+					"image": [
+						"kt_roster_bdd1.png",
+						"kt_roster_bdd2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "aiming",
+					"image": [
+						"kt_roster_aiming1.png",
+						"kt_roster_aiming2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "lehends",
+					"image": [
+						"kt_roster_lehends1.png",
+						"kt_roster_lehends2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "HLE",
+		"fullName": "Hanwha Life Esports",
+		"color": "#F37321",
+		"logo": {
+			"big": "hanwha_logo_big.png",
+			"small": "hanwha_logo_small.png",
+			"white": "hanwha_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "kingen",
+					"image": [
+						"hanwha_roster_kingen1.png",
+						"hanwha_roster_kingen2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "clid",
+					"image": [
+						"hanwha_roster_clid1.png",
+						"hanwha_roster_clid2.png"
+					]
+				},
+				{
+					"name": "grizzly",
+					"image": [
+						"hanwha_roster_grizzly1.png",
+						"hanwha_roster_grizzly2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "zeka",
+					"image": [
+						"hanwha_roster_zeka1.png",
+						"hanwha_roster_zeka2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "viper",
+					"image": [
+						"hanwha_roster_viper1.png",
+						"hanwha_roster_viper2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "life",
+					"image": [
+						"hanwha_roster_life1.png",
+						"hanwha_roster_life2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "DK",
+		"fullName": "Dplus KIA",
+		"color": "#000000",
+		"logo": {
+			"big": "dplus_logo_big.png",
+			"small": "dplus_logo_small.png",
+			"white": "dplus_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "canna",
+					"image": [
+						"dplus_roster_canna1.png",
+						"dplus_roster_canna2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "canyon",
+					"image": [
+						"dplus_roster_canyon1.png",
+						"dplus_roster_canyon2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "showmaker",
+					"image": [
+						"dplus_roster_showmaker1.png",
+						"dplus_roster_showmaker2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "deft",
+					"image": [
+						"dplus_roster_deft1.png",
+						"dplus_roster_deft2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "kellin",
+					"image": [
+						"dplus_roster_kellin1.png",
+						"dplus_roster_kellin2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "KDF",
+		"fullName": "Kwangdong Freecs",
+		"color": "#E63313",
+		"logo": {
+			"big": "freecs_logo_big.png",
+			"small": "freecs_logo_small.png",
+			"white": "freecs_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "dudu",
+					"image": [
+						"freecs_roster_dudu1.png",
+						"freecs_roster_dudu2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "youngjae",
+					"image": [
+						"freecs_roster_youngjae1.png",
+						"freecs_roster_youngjae2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "bulldog",
+					"image": [
+						"freecs_roster_bulldog1.png",
+						"freecs_roster_bulldog2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "taeyoon",
+					"image": [
+						"freecs_roster_taeyoon1.png",
+						"freecs_roster_taeyoon2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "jun",
+					"image": [
+						"freecs_roster_jun1.png",
+						"freecs_roster_jun2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "BRO",
+		"fullName": "OKSavingsBank BRION",
+		"color": "#004B29",
+		"logo": {
+			"big": "brion_logo_big.png",
+			"small": "brion_logo_small.png",
+			"white": "brion_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "morgan",
+					"image": [
+						"brion_roster_morgan1.png",
+						"brion_roster_morgan2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "umti",
+					"image": [
+						"brion_roster_umti1.png",
+						"brion_roster_umti2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "karis",
+					"image": [
+						"brion_roster_karis1.png",
+						"brion_roster_karis2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "hena",
+					"image": [
+						"brion_roster_hena1.png",
+						"brion_roster_hena2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "effort",
+					"image": [
+						"brion_roster_effort1.png",
+						"brion_roster_effort2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "NS",
+		"fullName": "Nongshim RedForce",
+		"color": "#901A1E",
+		"logo": {
+			"big": "redforce_logo_big.png",
+			"small": "redforce_logo_small.png",
+			"white": "redforce_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "dndn",
+					"image": [
+						"redforce_roster_dndn1.png",
+						"redforce_roster_dndn2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "sylvie",
+					"image": [
+						"redforce_roster_sylvie1.png",
+						"redforce_roster_sylvie2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "quad",
+					"image": [
+						"redforce_roster_quad1.png",
+						"redforce_roster_quad2.png"
+					]
+				},
+				{
+					"name": "fiesta",
+					"image": [
+						"redforce_roster_fiesta1.png",
+						"redforce_roster_fiesta2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "jiwoo",
+					"image": [
+						"redforce_roster_jiwoo1.png",
+						"redforce_roster_jiwoo2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "peter",
+					"image": [
+						"redforce_roster_peter1.png",
+						"redforce_roster_peter2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "LSB",
+		"fullName": "Liiv SANDBOX",
+		"color": "#FFC900",
+		"logo": {
+			"big": "sandbox_logo_big.png",
+			"small": "sandbox_logo_small.png",
+			"white": "sandbox_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "burdol",
+					"image": [
+						"sandbox_roster_burdol1.png",
+						"sandbox_roster_burdol2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "willer",
+					"image": [
+						"sandbox_roster_willer1.png",
+						"sandbox_roster_willer1.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "clozer",
+					"image": [
+						"sandbox_roster_clozer1.png",
+						"sandbox_roster_clozer2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "teddy",
+					"image": [
+						"sandbox_roster_teddy1.png",
+						"sandbox_roster_teddy1.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "kael",
+					"image": [
+						"sandbox_roster_kael1.png",
+						"sandbox_roster_kael2.png"
+					]
+				}
+			]
+		}
+	},
+	{
+		"teamAbbr": "DRX",
+		"fullName": "DRX",
+		"color": "#1003A3",
+		"logo": {
+			"big": "drx_logo_big.png",
+			"small": "drx_logo_small.png",
+			"white": "drx_logo_white.png"
+		},
+		"players": {
+			"top": [
+				{
+					"name": "rascal",
+					"image": [
+						"drx_roster_rascal1.png",
+						"drx_roster_rascal2.png"
+					]
+				}
+			],
+			"jungle": [
+				{
+					"name": "croco",
+					"image": [
+						"drx_roster_croco1.png",
+						"drx_roster_croco2.png"
+					]
+				},
+				{
+					"name": "juhan",
+					"image": [
+						"drx_roster_juhan1.png",
+						"drx_roster_juhan2.png"
+					]
+				}
+			],
+			"mid": [
+				{
+					"name": "kyeahoo",
+					"image": [
+						"drx_roster_kyeahoo1.png",
+						"drx_roster_kyeahoo2.png"
+					]
+				},
+				{
+					"name": "fate",
+					"image": [
+						"drx_roster_fate1.png",
+						"drx_roster_fate2.png"
+					]
+				}
+			],
+			"bot": [
+				{
+					"name": "paduck",
+					"image": [
+						"drx_roster_paduck1.png",
+						"drx_roster_paduck2.png"
+					]
+				}
+			],
+			"support": [
+				{
+					"name": "beryl",
+					"image": [
+						"drx_roster_beryl1.png",
+						"drx_roster_beryl2.png"
+					]
+				}
+			]
+		}
+	}
+]

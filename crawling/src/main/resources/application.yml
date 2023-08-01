@@ -1,0 +1,37 @@
+server: 
+  port: 7070
+  
+spring:
+  datasource:
+    driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
+    url: jdbc:log4jdbc:oracle:thin:@14.36.141.71:8877:xe
+    username: lolcogg
+    password: DVCDVC
+    
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+      
+  # File uploader
+  servlet:
+    multipart:
+      max-file-size: 10MB
+
+# MyBatis
+mybatis:
+  mapper-locations: classpath:/mappers/**/*.xml
+  config-location: classpath:/config/mybatis-config.xml
+  
+# Log
+logging:
+  file:
+    name: logs/lolcogg.log
+  level:
+    '[gg.lolco]': debug  
+    
+# User-defined variables
+lolcogg:
+  admin:
+    email: example
+    pw: example
